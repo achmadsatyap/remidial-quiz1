@@ -6,7 +6,7 @@
 
 /**
  *
- * @author RADEON
+ * @author achmadsatyap
  */
 public class Pegawai {
     private String name;
