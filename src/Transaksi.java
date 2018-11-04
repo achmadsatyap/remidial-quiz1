@@ -6,7 +6,7 @@
 
 /**
  *
- * @author RADEON
+ * @author achmadsatyap
  */
 public class Transaksi {
     private Hp hp;
