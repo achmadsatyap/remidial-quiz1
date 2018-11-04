@@ -11,9 +11,9 @@
 public class Main {
     public static void main(String[] args) {
         Service s = new Service("servis hp", 25000);
-        Hp hp = new Hp("Android", 20000, "Samsung");
+        Hp h = new Hp("Android", 20000, "Samsung");
         Pegawai p = new Pegawai("Agus", "CS");
-        Transaksi t = new Transaksi(hp, s, p);
+        Transaksi t = new Transaksi(h, s, p);
         
         t.print();
     }
